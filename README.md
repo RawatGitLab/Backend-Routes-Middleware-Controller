@@ -1,4 +1,4 @@
-USe POSTMAN for the endpoint for the controller are catogarised into two parts, i.e.,
+NOTE: [ use POSTMAN for testing below endpoints ]
 
 1. Home Controller:
    The endpoint for the Home Controller are:
